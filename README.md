@@ -1,7 +1,9 @@
 # HotelBookings-EDA-Dashboard
+- This is an Analysis for Hotel Bookings data with dashboard as web application  
+- The analysis with: pandas  
+- The visualization with: plotly
+- The web application with: streamlit
 
-### Title:
-Canceled or Not Canceled Hotel Bookings: An Exploratory Data Analysis
 
-### Description:
-Delve into the world of hotel bookings with this Exploratory Data Analysis (EDA) project. We'll uncover insights into cancellation patterns, reservation trends, and factors influencing booking decisions. This project utilizes a dataset containing hotel booking information.
+### Web Application Link :
+https://hotelbookings-eda-dashboard.streamlit.app
